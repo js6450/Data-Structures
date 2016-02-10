@@ -1,0 +1,1 @@
+The goal of the program is to allow the user to calculate the total spending according to its categories. If the user inserts in the name of the file with names of categories and its amount, as shown in the exemplary file, called ¡°file.txt¡±, the program will return the value of the sum for each of the categories. This program utilizes MapReduce methods of operation.

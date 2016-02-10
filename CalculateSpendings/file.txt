@@ -1,0 +1,4 @@
+Transportation 300
+Food 450
+Equipment 200
+Food 200
